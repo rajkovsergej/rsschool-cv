@@ -27,9 +27,8 @@ I am determined to study the Frontend, so I am ready to study 40-50 hours a week
 Until now, I had no experience in the IT field. I worked as an accountant, head of a firm, engaged in entrepreneurship. At the moment I am studying, independently and on courses (HTML layout, CSS, JS).
 At the moment I am studying, independently and on courses The Rolling Scopes. At the preparatory stage of Rolling scopes school , I completed the following projects:
 
-- [Plants - landing page of a website that offers its services for growing plants in the garden and caring for them](https://rolling-scopes-school.github.io/sergeyraikov-JSFEPRESCHOOL2022Q4/plants/)
+- [rsschool CV ](https://rajkovsergej.github.io/rsschool-cv/cv)
 
-- [Momentum is an analog of the Chrome online store application of the same name](https://rolling-scopes-school.github.io/sergeyraikov-JSFEPRESCHOOL2022Q4/#ru")
 
 ## Education and course:
 
