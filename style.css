@@ -247,12 +247,8 @@ body {
   margin: 0 40px 0 40px;
 }
 
-/* Media */
 
-@media (max-width: 1974px) {
-  .container {
-    margin: 0 30px;
-  }
+
 
   .nav-list {
     display: flex;
